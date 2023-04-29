@@ -102,7 +102,7 @@ function App() {
             </Card>
 
             <Divider />
-
+donald trump noob
             <Card>
               <CardHeader>
                 <Heading size='lg'> <Icon as={FaChild} mr="8px"/> Early Life</Heading>
